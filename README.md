@@ -1,9 +1,9 @@
 ## Hello World
 Hello, my name is Frank Ruan, a student who currently resides in the People's Republic of China.
 ### Academic Status
-Currently in senior high school.
+Currently in university.
 ### Interests
-Computer Science advocate, and considering Finance (specifically Fintech). Do like mathematics. 
+Computer Science and Big Data advocate.
 ### Spoken Language
 Chinese (Simplified/Traditional), English (United States)
 #### Nationality
@@ -14,7 +14,7 @@ Use Python for most projects because it's rather easier than others. Now learnin
 <img src="https://wakatime.com/share/@018e036c-290f-44de-b9fb-fd91bfe67f96/c57e95fe-9382-4de0-a568-2c9d446aacd6.svg" />
 
 ### Operating System
-Currently on Debian bookworm. The workstation will be switched to macOS no later than mid-2026.
+Currently my workstation is a base model MacBook Pro 14-inch (2025), powered by Apple M5.
 ### Membership
 ![](https://static.fsf.org/nosvn/associate/crm/5939861.png)
 ### Sponsoring
